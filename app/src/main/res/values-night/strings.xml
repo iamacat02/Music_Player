@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_duration">0:00</string>
+    <string name="artist">Artist\n</string>
+    <string name="music_title">Music Title</string>
+    <string name="no_music_played_recently">No music played recently</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="todo">TODO</string>
+    <string name="recommended">Recommended</string>
+    <string name="app_name">Streemify Music Player</string>
+    <string name="previous">previous</string>
+    <string name="play_pause">play Pause</string>
+    <string name="next">next</string>
+</resources>
